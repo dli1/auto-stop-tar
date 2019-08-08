@@ -55,11 +55,13 @@ It contains 31 new topics released in CLEF TAR 2019 (see [CLEF 2019 Technologica
 ## Code
 
 - AutoTar knee
-AutoTar is proposed in paper *Autonomy and Reliability of Continuous Active Learning for Technology-Assisted Review*.
-The key component of *AutoTar knee* is a knee detection method, which is proposed in paper *"Kneedle" in a Haystack: Detecting Knee Points in System Behavior*.
 
-We implemented the method ourselves.
+  AutoTar is proposed in paper *Autonomy and Reliability of Continuous Active Learning for Technology-Assisted Review*.
+  The key component of *AutoTar knee* is a knee detection method, which is proposed in paper *"Kneedle" in a Haystack: Detecting Knee Points in System Behavior*.
+
+  We implemented the method ourselves.
 
 - SCAL 
-SCAL 
+
+  SCAL is p
 
