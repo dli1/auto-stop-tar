@@ -28,18 +28,23 @@ Code and data for paper "When to Stop Reviewing in Technology-Assisted Reviews"
 ## Data  
 
 - CLEF TAR 2017
+
 It contains 42 topics selected from the complete topics by the organisor (see [CLEF 2017 Technologically Assisted Reviews in Empirical Medicine Overview](https://pure.strath.ac.uk/ws/portalfiles/portal/71285524/Kanoulas_etal_CEUR_2017_CLEF_2017_technologically_assisted_reviews_in_empirical_medicine_overview.pdf))
 
 - CLEF TAR 2018
+
 It contains 30 new topics released in CLEF TAR 2018 (see [CLEF 2018 Technologically Assisted Reviews in Empirical Medicine Overview](http://ceur-ws.org/Vol-2125/invited_paper_6.pdf))
 
 - CLEF TAR 2019
+
 It contains 31 new topics released in CLEF TAR 2019 (see [CLEF 2019 Technologically Assisted Reviews in Empirical Medicine Overview](http://ceur-ws.org/Vol-2380/paper_250.pdf))
 
 - TREC total recall track 2015/2016
+
 It contains two subsets: athome1 contains 10 topics, and athome4 contains 34 topics. (See [TREC 2016 Total Recall Track Overview](https://plg.uwaterloo.ca/~gvcormac/total-recall/))
 
 - TREC legal track 2010 
+
 It contains 4 topics in the interactive task in the TREC 2010 Legal track. (See [Overview of the TREC 2010 Legal
 Track](https://trec-legal.umiacs.umd.edu)).
 
