@@ -4,7 +4,7 @@ Code and data for paper "When to Stop Reviewing in Technology-Assisted Reviews"
 
 ## Table of contents
 
-- Data （Download the complete data (1.5G) [here](https://drive.google.com/drive/folders/14VS0Yib9yWfpghjxhf8aNoej43yJJ-Ej?usp=sharing).）
+- Data （Download the complete data (1.5G) [here](https://surfdrive.surf.nl/files/index.php/s/d74PiMieCQHcdMO).）
     * CLEF TAR 2017
     * CLEF TAR 2018
     * CLEF TAR 2019
@@ -12,7 +12,7 @@ Code and data for paper "When to Stop Reviewing in Technology-Assisted Reviews"
     * TREC legal track 2010 
     
 - Code
-    - baseline reproduction （Download the complete data (5.5G) for baseline reproduction [here](https://drive.google.com/drive/folders/14VS0Yib9yWfpghjxhf8aNoej43yJJ-Ej?usp=sharing).）
+    - baseline reproduction （Download the complete data (5.5G) for baseline reproduction [here](https://surfdrive.surf.nl/files/index.php/s/DeQKjHiDokEkpt7).）
     
         * AutoTar 
         * Knee
